@@ -10,15 +10,33 @@
 
     <TextView
         android:id="@+id/name_text"
+        style="@style/nameStyle"
         android:layout_width="match_parent"
         android:layout_height="43dp"
+        android:fontFamily="@font/roboto_new"
         android:text="@string/name"
-        style="@style/nameStyle" />
+        android:textStyle="bold" />
 
     <ImageView
         android:id="@+id/star_image"
         android:layout_width="match_parent"
-        android:layout_gravity="center"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/name_star"
         app:srcCompat="@android:drawable/btn_star_big_on" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/scroll_margin">
+
+        <TextView
+            android:id="@+id/text_bio"
+            style="@style/style_bio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_bio_content" />
+    </ScrollView>
+
+
 </LinearLayout>

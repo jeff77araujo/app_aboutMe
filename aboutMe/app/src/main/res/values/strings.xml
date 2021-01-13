@@ -1,4 +1,36 @@
 <resources>
     <string name="app_name">aboutMe</string>
     <string name="name">Jefferson</string>
+    <string name="name_star">Estrela Amarela</string>
+    <string name="text_bio_content">
+        Olá, tudo bem? \n\n<br/><br/>
+        Sou um programador em desenvolvimento, apaixonado
+        por tecnologia e amo utilizar a lógica para resolver problemas! \n\n<br/><br/>
+
+        Ainda estou aprendendo e descobrindo novas habilidades em várias linguagens
+        diferentes, mas atualmente estou focado com o desenvolvimento de
+        aplicativos <i>Android</i> usando <b>KOTLIN</b> \n\n<br/><br/>
+
+        Tenho atenção aos detalhes de tudo que eu faço e mantenho uma persistência
+        nos meus objetivos, procuro sempre aprender e entender novos métodos e tecnologias,
+        buscando sempre compartilhar novas soluções. \n\n<br/><br/>
+
+        Atualmente minhas stacks são: \n\n<br/><br/>
+        - Kotlin \n<br/>
+        - Android  \n<br/>
+        - Java \n<br/>
+        - Spring \n<br/>
+        - JavaScript \n<br/>
+        - TypeScript \n<br/>
+        - HTML \n<br/>
+        - CSS \n<br/>
+        - Angular \n<br/>
+        - React \n<br/>
+        - Node \n<br/>
+        - MySQL \n<br/>
+        - Python \n<br/>
+        - BootStrap \n\n<br/><br/>
+
+        <b>Obrigado!</b>
+    </string>
 </resources>
